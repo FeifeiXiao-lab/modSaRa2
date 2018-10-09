@@ -28,7 +28,7 @@ install_github("FeifeiXiaoUSC/modSaRa2",subdir="Package")
 *[Reference Manual](https://github.com/FeifeiXiaoUSC/modSaRa2/blob/master/modSaRa2-manual.pdf)
 
 ## FAQ
-1. Why am I cecieving the following error?
+1. Why am I receiving the following error?
 ```
 ERROR: dependency RcppArmadillo is not available for package âmodSaRa2â
 ```
