@@ -39,5 +39,5 @@ modSaRa2 is built on both language R and C++, R package RcppArmadillo is require
 configure: WARNING: Only g++ version 4.7.2 or greater can be used with RcppArmadillo.
 configure: error: Please use a different compiler.
 ```
-Downloading higher version of g++ is recommanded. 
+Downloading higher version of g++ is recommended. 
 
