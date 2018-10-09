@@ -9,7 +9,7 @@ For Windows, the source package needs to be compiled first with the Rtools on Wi
 
 3. Add it to the system Path
 
-For Mac, users need to have Xcode installed on the computer before installing modSaRa. To that end, the following steps are also recommended for installing the .tar.gz file.
+For Mac, users need to have Xcode installed on the computer before installing modSaRa2. To that end, the following steps are also recommended for installing the .tar.gz file.
 
 1. Go to http://hpc.sourceforge.net
 
